@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Kost Mawar",
+    "harga": "800000",
+    "alamat": "Jl. Melati No. 10, Pangkalpinang",
+    "deskripsi": "Kost putri nyaman dengan fasilitas AC dan kamar mandi dalam.",
+    "fasilitas": ["AC", "Wi-Fi", "Parkir", "Dapur Umum"],
+    "foto": ["/images/kost1_1.jpg", "/images/kost1_2.jpg", "/images/kost1_3.jpg"],
+    "kontak": "6281234567890"
+  },
+
+  {
+    "id": 2,
+    "nama": "Kost Serayu",
+    "harga": "750000",
+    "alamat": "Jl. Kenangan No. 32, Depok",
+    "deskripsi": "Kost campur dekat dengan akses kendaraan umum.",
+    "fasilitas": ["AC", "Wi-Fi", "Dapur Umum", "Parkir"],
+    "foto": ["/images/kost2_1.jpg", "/images/kost2_2.jpg", "/images/kost2_3.jpg"],
+    "kontak": "6281234567890"
+  }
+]
